@@ -1,4 +1,4 @@
-# ChuyenSoThanhChu
+# number-to-text-vietnamese
 Code chuyển từ số thành chữ tiếng Việt
 
 Code snippets to convert number to text in Vietnamese
